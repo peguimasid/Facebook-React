@@ -6,6 +6,12 @@
   :rocket: [Bootcamp GoStack#10] Facebook React
 </h3>
 
+<br>
+
+<p align="center">
+  <img alt="Frontend" src="./files/MacBook.png" width="100%">
+</p>
+
 ### Desafio
 Desafio proposto pela Rocketseat onde deveriamos criar um clone do facebook usando as
 tecnlogias adquiridas no 1º modulo de React.
